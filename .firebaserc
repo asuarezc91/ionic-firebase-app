@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionic-course-39285": {
+      "hosting": {
+        "app": [
+          "ionic-course-39285"
+        ]
+      }
+    }
+  }
+}
